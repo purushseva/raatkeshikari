@@ -23,7 +23,7 @@ APP_ID = int(os.environ.get("APP_ID", "11642776")) #Your API ID from my.telegram
 API_HASH = os.environ.get("API_HASH", "19052626403c09412865b02b435a4138") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002606097254")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002853343460")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "masterteddy07") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "1981178146")) # Owner id
 #--------------------------------------------
@@ -40,15 +40,15 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/79ce230b9cde527d
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/79ce230b9cde527d7087b-8fc300a5949ebdda03.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "vplink.in")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "a2e7163e0fc835695bce82123c25f70f81927c16")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "reel2earn.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "fc104b962cd55e7c7d31296a474187705d1af5e9")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 50000) ) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","https://t.me/TEAM_G_SHIT")
 
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @ig_mentor\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/onlynaman>sᴜʙᴀʀᴜ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @ig_mentor\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/ig_mentor>MORTAL</a></blockquote></b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/IG_MENTOR>MENTOR</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/PURUSHSEVA>PURUSH SEVA</a>\n◈ NETWORK : <a href=https://t.me/PURUSHSEVA>PURUSH SEVA</a>\n◈ PREMIUM MEMBERSHIP : <a href=https://t.me/onLIMEMBERS>VIEW PRICES</a>\n◈ OTHER POSTING CHANNELS : <a href=https://t.me/PURUSHSEVA>VIEW CHANNELS</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/IG_MENTOR>IG MORTAL</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
@@ -90,14 +90,14 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 
 #==========================(BUY PREMIUM)====================#
 
-OWNER_TAG = os.environ.get("OWNER_TAG", "ig_mentor")
-UPI_ID = os.environ.get("UPI_ID", "amandahiya168-5@okaxis")
-QR_PIC = os.environ.get("QR_PIC", "https://graph.org/file/a6378b52337e2364062a8-63199cace0d7c53a36.jpg")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/ig_mentor")
+OWNER_TAG = os.environ.get("OWNER_TAG", "IG_AK07")
+UPI_ID = os.environ.get("UPI_ID", "ashishnr90@oksbi")
+QR_PIC = os.environ.get("QR_PIC", "https://graph.org/file/4194adcf28efdcbba352e-5dcb2318a53b96770b.jpg")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/IG_AK07")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "9 rs")
+PRICE1 = os.environ.get("PRICE1", "29 rs")
 #1 Month
 PRICE2 = os.environ.get("PRICE2", "89 rs")
 #3 Month
