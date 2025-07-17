@@ -31,7 +31,7 @@ PORT = os.environ.get("PORT", "8001")
 #--------------------------------------------
 
 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://purushseva:x1EMxzK2lJUtXURV@cluster0.dtupklu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://purushsevaofficial:A8bAKKDMRMykwXM9@cluster0.cwpwwvi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluooo")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
